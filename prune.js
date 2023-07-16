@@ -1,5 +1,5 @@
 // keep N-day worth of data
-var days=1;
+var days=7;
 
 // change to false to have the script to really exclude old records
 // from the database. While true, no change at all will be made to the DB
